@@ -1,0 +1,1 @@
+DELETE FROM Persons WHERE personid = 1; Affecte
